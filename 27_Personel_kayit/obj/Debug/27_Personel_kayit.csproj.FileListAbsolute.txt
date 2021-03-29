@@ -1,0 +1,10 @@
+C:\Users\yakup\source\repos\27_Personel_kayit\27_Personel_kayit\bin\Debug\27_Personel_kayit.exe.config
+C:\Users\yakup\source\repos\27_Personel_kayit\27_Personel_kayit\bin\Debug\27_Personel_kayit.exe
+C:\Users\yakup\source\repos\27_Personel_kayit\27_Personel_kayit\bin\Debug\27_Personel_kayit.pdb
+C:\Users\yakup\source\repos\27_Personel_kayit\27_Personel_kayit\obj\Debug\27_Personel_kayit.csprojAssemblyReference.cache
+C:\Users\yakup\source\repos\27_Personel_kayit\27_Personel_kayit\obj\Debug\_27_Personel_kayit.Form1.resources
+C:\Users\yakup\source\repos\27_Personel_kayit\27_Personel_kayit\obj\Debug\_27_Personel_kayit.Properties.Resources.resources
+C:\Users\yakup\source\repos\27_Personel_kayit\27_Personel_kayit\obj\Debug\27_Personel_kayit.csproj.GenerateResource.cache
+C:\Users\yakup\source\repos\27_Personel_kayit\27_Personel_kayit\obj\Debug\27_Personel_kayit.csproj.CoreCompileInputs.cache
+C:\Users\yakup\source\repos\27_Personel_kayit\27_Personel_kayit\obj\Debug\27_Personel_kayit.exe
+C:\Users\yakup\source\repos\27_Personel_kayit\27_Personel_kayit\obj\Debug\27_Personel_kayit.pdb
